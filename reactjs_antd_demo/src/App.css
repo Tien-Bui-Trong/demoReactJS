@@ -1,0 +1,12 @@
+.trigger {
+  color: #333333 !important;
+}
+
+
+.ant-menu-title-content {
+  user-select: none;
+}
+
+.ant-tabs-tab-btn {
+  user-select: none;
+}
